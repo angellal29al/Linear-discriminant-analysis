@@ -73,7 +73,7 @@ Also applied to compare performance with LDA under the same conditions.
 This may be due to LDA's robustness even when normality assumptions are slightly violated.
 
 
-## Required Libraries:
+### Required Libraries:
 
 Python 3.x
 
@@ -89,7 +89,7 @@ scikit-learn
 
 imbalanced-learn
 
-# ✅ Conclusion
+## ✅ Conclusion
 This project demonstrates how machine learning can automate a biological classification task traditionally performed manually. By using physical features of scallops:
 
 We balanced the dataset using SMOTE.
@@ -98,7 +98,7 @@ Applied LDA and QDA models for classification.
 
 Found that LDA outperforms QDA, with an accuracy of 63.35%.
 
-# 🚀 Future Work
+## 🚀 Future Work
 Explore more advanced classifiers like Random Forest, XGBoost, or SVM
 
 Implement feature selection or dimensionality reduction
